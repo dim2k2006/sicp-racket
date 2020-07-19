@@ -37,7 +37,7 @@
   (display " *** ")
   (display elapsed-time))
 
-(displayln (timed-prime-test 1000))
+(displayln (timed-prime-test 9973))
 
 ;;; (check-equal? (smallest-divisior 199) 199)
 ;;; (check-equal? (smallest-divisior 1999) 1999)
